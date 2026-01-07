@@ -29,4 +29,4 @@ Building intelligent AI systems with **Large Language Models**, **Retrieval-Augm
 ---
 
 📧 **ismailalyan1234@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/ismail-elyan)
+🔗 [LinkedIn](www.linkedin.com/in/ismail-elyan-703227275)
