@@ -11,7 +11,7 @@ Building intelligent AI systems with **Large Language Models**, **Retrieval-Augm
 
 ---
 
-## 🛠️ What I’ve Learned
+## 🛠️ Tools & Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -26,19 +26,6 @@ Building intelligent AI systems with **Large Language Models**, **Retrieval-Augm
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-- **Local LLM Research Assistant**  
-  PDF-based research chatbot using LangChain and Streamlit with RAG pipelines and local embeddings.
-
-- **Cancer Information Chatbot**  
-  Knowledge-driven chatbot built with LangChain, FAISS, and local embeddings for efficient document retrieval.
-
-- **Boycotted Products Recommendation System**  
-  AI-powered system using YOLO, NLP, and clustering techniques, Dockerized and deployed on cloud infrastructure.
 
 ---
 
