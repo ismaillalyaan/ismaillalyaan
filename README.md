@@ -45,9 +45,10 @@ class AIEngineer:
 ---
 
 ## 🧩 Tech Stack
----
 
-### 💻 Languages & Core Technologies
+<br>
+
+<h3 align="center">💻 Languages & Core Technologies</h3>
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,9 +56,9 @@ class AIEngineer:
 
 </div>
 
----
+<br>
 
-### 🤖 AI / ML Frameworks & Libraries
+<h3 align="center">🤖 AI / ML Frameworks & Libraries</h3>
 <div align="center">
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -69,9 +70,9 @@ class AIEngineer:
 
 </div>
 
----
+<br>
 
-### 🧠 NLP & LLM Tools
+<h3 align="center">🧠 NLP & LLM Tools</h3>
 <div align="center">
 
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -81,9 +82,9 @@ class AIEngineer:
 
 </div>
 
----
+<br>
 
-### ☁️ Cloud & MLOps
+<h3 align="center">☁️ Cloud & MLOps</h3>
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -93,18 +94,18 @@ class AIEngineer:
 
 </div>
 
----
+<br>
 
-### 🌐 Web Development
+<h3 align="center">🌐 Web Development</h3>
 <div align="center">
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
----
+<br>
 
-### 🗄️ Databases & Vector Stores
+<h3 align="center">🗄️ Databases & Vector Stores</h3>
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -113,9 +114,9 @@ class AIEngineer:
 
 </div>
 
----
+<br>
 
-### 🛠️ Development Tools
+<h3 align="center">🛠️ Development Tools</h3>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
