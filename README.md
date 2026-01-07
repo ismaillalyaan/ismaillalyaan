@@ -2,10 +2,16 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ismail+Elyan;AI+Engineer;&center=true&size=30">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ismail+Elyan;AI+Engineer;&center=true&vCenter=true&size=30"
+      alt="Typing SVG"
+    />
   </a>
-  <br/>
-  <img src="https://img.shields.io/github/followers/ismail-elyan?label=Followers&style=for-the-badge" />
+  <br><br>
+  <img
+    src="https://img.shields.io/github/followers/ismaillalyaan?label=Followers&style=for-the-badge"
+    alt="GitHub followers"
+  />
 </div>
 
 ---
