@@ -2,60 +2,56 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ismail+Elyan;AI+Engineer;LLMs+•+RAG+•+Agentic+AI+•+Cloud&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ismail+Elyan;AI+Engineer;&center=true&size=30">
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/ismail-elyan-703227275/" title="LinkedIn Profile">
-      <img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg">
-      LinkedIn
-    </a>
-  </code>
-  <code>
-    <a href="mailto:ismailalyan1234@gmail.com" title="Email">
-      <img width="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg">
-      Email
-    </a>
-  </code>
-</h5>
+🤖 **AI Engineer | LLMs • RAG • Agentic AI • Cloud**  
+Building intelligent AI systems with **Large Language Models**, **Retrieval-Augmented Generation**, and **agentic workflows**, with a focus on **LLMOps and AWS-based deployment**.
 
-<br>
+---
 
-<p align="center">
-  Hi, I'm <b>Ismail Elyan</b>, an <b>AI Engineer</b> focused on building intelligent, production-ready AI systems.
-  <br><br>
-  🤖 Specialized in <b>Large Language Models (LLMs)</b>, <b>Retrieval-Augmented Generation (RAG)</b>, and <b>Agentic AI workflows</b>
-  <br>
-  ⚙️ Experienced with <b>LangChain, LangGraph, Hugging Face, PyTorch</b>, and <b>n8n</b> for orchestration & automation
-  <br>
-  ☁️ Currently transitioning toward <b>LLMOps & MLOps</b> with hands-on implementation on <b>AWS</b>
-  <br>
-  🎓 B.Sc. in Computer Science (AI & Machine Learning) — <b>Benha National University</b>
-  <br>
-  📜 AWS Certified AI Practitioner (AI-900)
-</p>
+## 🛠️ What I’ve Learned
 
-<hr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-35495e?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
-<h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
+---
 
-<p align="center">
-  <code><img title="Python" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img title="PyTorch" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"></code>
-  <code><img title="Scikit-learn" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"></code>
-  <code><img title="LangChain" height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"></code>
-  <code><img title="Hugging Face" height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg"></code>
-  <code><img title="Ollama" height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg"></code>
-  <code><img title="FastAPI" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"></code>
-  <code><img title="Streamlit" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg"></code>
-  <code><img title="Docker" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-  <code><img title="AWS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"></code>
-  <code><img title="n8n" height="25" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"></code>
-  <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img title="MongoDB" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
-  <code><img title="Neo4j" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg"></code>
-</p>
+## 🚀 Featured Projects
 
-<hr>
+- **Local LLM Research Assistant**  
+  PDF-based research chatbot using LangChain and Streamlit with RAG pipelines and local embeddings.
+
+- **Cancer Information Chatbot**  
+  Knowledge-driven chatbot built with LangChain, FAISS, and local embeddings for efficient document retrieval.
+
+- **Boycotted Products Recommendation System**  
+  AI-powered system using YOLO, NLP, and clustering techniques, Dockerized and deployed on cloud infrastructure.
+
+---
+
+## 🎓 Certification
+- **AWS Certified AI Practitioner**
+
+---
+
+## 📫 Connect With Me
+📧 **ismailalyan1234@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ismail-elyan-703227275)
+
+---
+
+⭐ *Open to collaboration on AI systems, LLM-powered applications, and production-ready ML solutions.*
+
