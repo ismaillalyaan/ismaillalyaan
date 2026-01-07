@@ -7,7 +7,9 @@
 </h1>
 
 🤖 **AI Engineer | LLMs • RAG • Agentic AI • Cloud**  
-Building intelligent AI systems with **Large Language Models**, **Retrieval-Augmented Generation**, and **agentic workflows**, with a focus on **LLMOps and AWS-based deployment**.
+I am an AI Engineer passionate about building intelligent, end-to-end AI systems that move beyond models into real-world products. My work focuses on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **agentic AI workflows**, with hands-on experience in designing pipelines that combine data processing, model inference, orchestration, and deployment.
+
+I am actively working toward becoming a **Full-Stack AI Engineer**, capable of owning the entire lifecycle of AI solutions — from data preparation and model development to backend APIs, cloud infrastructure, automation, and monitoring. I enjoy turning complex AI ideas into scalable, production-ready systems using tools like **FastAPI, Docker, AWS, and LLMOps practices**, while continuously learning and improving through projects, reading, and experimentation.
 
 ---
 
