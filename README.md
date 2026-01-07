@@ -83,20 +83,3 @@ class AIEngineer:
 ---
 
 ⭐ *Open to collaboration on AI systems, LLM-powered applications, and production-ready ML solutions.*
-
-
----
-
-### 🎓 Certifications
-- **AWS Certified AI Practitioner**
-
----
-
-### 📫 Connect With Me
-📧 **ismailalyan1234@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/ismail-elyan-703227275)
-
----
-
-⭐ *Open to collaboration on AI systems, LLM-powered applications, and production-ready ML solutions.*
-
