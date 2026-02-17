@@ -136,6 +136,7 @@ class AIEngineer:
 
 ## 🎓 Certifications
 - **AWS Certified AI Practitioner**
+- **AWS Certified Machine Learning Engineer Associate**
 
 ---
 
